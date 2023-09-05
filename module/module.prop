@@ -1,0 +1,6 @@
+id=move-user-certs
+name=Move User Certificates
+version=v0.1
+versionCode=1
+author=Arpan
+description=Moves certificates from the user certificate store to the system certificate store.
